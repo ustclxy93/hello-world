@@ -1,2 +1,3 @@
 # hello-world
-just the beginning
+just the beginning.
+I am new here,and I like C++．
